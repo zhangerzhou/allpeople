@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip37">
+    <mask fill="white" id="clip60">
       <path d="M 656 1442.5  C 646.2875 1442.5  638.5 1434.7125  638.5 1425  L 638.5 1425  C 638.5 1415.2875  646.2875 1407.5  656 1407.5  L 656 1407.5  C 665.7125 1407.5  673.5 1415.2875  673.5 1425  L 673.5 1425  C 673.5 1434.7125  665.7125 1442.5  656 1442.5  L 656 1442.5  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -638 -1407 )">
-    <path d="M 638 1407  L 674 1407  L 674 1443  L 638 1443  L 638 1407  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip37)" />
-    <path d="M 641 1410  L 671 1410  L 671 1440  L 641 1440  L 641 1410  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip37)" />
-    <path d="M 659.42 1417.8  C 657.908 1417.8  656.72 1416.612  656.72 1415.1  C 656.72 1413.588  657.908 1412.4  659.42 1412.4  C 660.932 1412.4  662.12 1413.588  662.12 1415.1  C 662.12 1416.612  660.932 1417.8  659.42 1417.8  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip37)" />
-    <path d="M 642 1439  L 642 1423.6  L 649 1416.6  L 658.8 1422.2  L 664.4 1420.8  L 670 1422.2  L 670 1439  L 642 1439  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip37)" />
-    <path d="M 656 1442.5  C 646.2875 1442.5  638.5 1434.7125  638.5 1425  L 638.5 1425  C 638.5 1415.2875  646.2875 1407.5  656 1407.5  L 656 1407.5  C 665.7125 1407.5  673.5 1415.2875  673.5 1425  L 673.5 1425  C 673.5 1434.7125  665.7125 1442.5  656 1442.5  L 656 1442.5  Z " stroke-width="1" stroke="#797979" fill="none" mask="url(#clip37)" />
+    <path d="M 638 1407  L 674 1407  L 674 1443  L 638 1443  L 638 1407  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip60)" />
+    <path d="M 641 1410  L 671 1410  L 671 1440  L 641 1440  L 641 1410  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip60)" />
+    <path d="M 659.42 1417.8  C 657.908 1417.8  656.72 1416.612  656.72 1415.1  C 656.72 1413.588  657.908 1412.4  659.42 1412.4  C 660.932 1412.4  662.12 1413.588  662.12 1415.1  C 662.12 1416.612  660.932 1417.8  659.42 1417.8  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip60)" />
+    <path d="M 642 1439  L 642 1423.6  L 649 1416.6  L 658.8 1422.2  L 664.4 1420.8  L 670 1422.2  L 670 1439  L 642 1439  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip60)" />
+    <path d="M 656 1442.5  C 646.2875 1442.5  638.5 1434.7125  638.5 1425  L 638.5 1425  C 638.5 1415.2875  646.2875 1407.5  656 1407.5  L 656 1407.5  C 665.7125 1407.5  673.5 1415.2875  673.5 1425  L 673.5 1425  C 673.5 1434.7125  665.7125 1442.5  656 1442.5  L 656 1442.5  Z " stroke-width="1" stroke="#797979" fill="none" mask="url(#clip60)" />
   </g>
 </svg>
