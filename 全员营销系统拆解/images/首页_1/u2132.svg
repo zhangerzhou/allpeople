@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip67">
+    <mask fill="white" id="clip99">
       <path d="M 140 254  C 126.125 254  115 242.875  115 229  L 115 229  C 115 215.125  126.125 204  140 204  L 140 204  C 153.875 204  165 215.125  165 229  L 165 229  C 165 242.875  153.875 254  140 254  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -115 -204 )">
-    <path d="M 115 204  L 165 204  L 165 254  L 115 254  L 115 204  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip67)" />
-    <path d="M 119 208  L 161 208  L 161 250  L 119 250  L 119 208  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip67)" />
-    <path d="M 144.75 219  C 142.65 219  141 217.35  141 215.25  C 141 213.15  142.65 211.5  144.75 211.5  C 146.85 211.5  148.5 213.15  148.5 215.25  C 148.5 217.35  146.85 219  144.75 219  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip67)" />
-    <path d="M 121 249  L 121 227.55  L 130.75 217.8  L 144.4 225.6  L 152.2 223.65  L 160 225.6  L 160 249  L 121 249  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip67)" />
+    <path d="M 115 204  L 165 204  L 165 254  L 115 254  L 115 204  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip99)" />
+    <path d="M 119 208  L 161 208  L 161 250  L 119 250  L 119 208  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip99)" />
+    <path d="M 144.75 219  C 142.65 219  141 217.35  141 215.25  C 141 213.15  142.65 211.5  144.75 211.5  C 146.85 211.5  148.5 213.15  148.5 215.25  C 148.5 217.35  146.85 219  144.75 219  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip99)" />
+    <path d="M 121 249  L 121 227.55  L 130.75 217.8  L 144.4 225.6  L 152.2 223.65  L 160 225.6  L 160 249  L 121 249  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip99)" />
   </g>
 </svg>

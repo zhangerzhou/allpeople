@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="45px" height="45px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip45">
+    <mask fill="white" id="clip77">
       <path d="M 151.5 308  C 139.0125 308  129 297.9875  129 285.5  L 129 285.5  C 129 273.0125  139.0125 263  151.5 263  L 151.5 263  C 163.9875 263  174 273.0125  174 285.5  L 174 285.5  C 174 297.9875  163.9875 308  151.5 308  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -129 -263 )">
-    <path d="M 129 263  L 174 263  L 174 308  L 129 308  L 129 263  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip45)" />
-    <path d="M 132 266  L 171 266  L 171 305  L 132 305  L 132 266  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip45)" />
-    <path d="M 155.775 276.5  C 153.885 276.5  152.4 275.015  152.4 273.125  C 152.4 271.235  153.885 269.75  155.775 269.75  C 157.665 269.75  159.15 271.235  159.15 273.125  C 159.15 275.015  157.665 276.5  155.775 276.5  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip45)" />
-    <path d="M 133 304  L 133 283.65  L 142.25 274.4  L 155.2 281.8  L 162.6 279.95  L 170 281.8  L 170 304  L 133 304  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip45)" />
+    <path d="M 129 263  L 174 263  L 174 308  L 129 308  L 129 263  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip77)" />
+    <path d="M 132 266  L 171 266  L 171 305  L 132 305  L 132 266  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip77)" />
+    <path d="M 155.775 276.5  C 153.885 276.5  152.4 275.015  152.4 273.125  C 152.4 271.235  153.885 269.75  155.775 269.75  C 157.665 269.75  159.15 271.235  159.15 273.125  C 159.15 275.015  157.665 276.5  155.775 276.5  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip77)" />
+    <path d="M 133 304  L 133 283.65  L 142.25 274.4  L 155.2 281.8  L 162.6 279.95  L 170 281.8  L 170 304  L 133 304  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip77)" />
   </g>
 </svg>

@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="23px" height="22px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip46">
+    <mask fill="white" id="clip78">
       <path d="M 141 562  C 134.895 562  130 557.105  130 551  L 130 551  C 130 544.895  134.895 540  141 540  L 142 540  C 148.105 540  153 544.895  153 551  L 153 551  C 153 557.105  148.105 562  142 562  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -130 -540 )">
-    <path d="M 130 540  L 153 540  L 153 562  L 130 562  L 130 540  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip46)" />
-    <path d="M 132 542  L 151 542  L 151 560  L 132 560  L 132 542  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip46)" />
-    <path d="M 143.61 546.6  C 142.686 546.6  141.96 545.874  141.96 544.95  C 141.96 544.026  142.686 543.3  143.61 543.3  C 144.534 543.3  145.26 544.026  145.26 544.95  C 145.26 545.874  144.534 546.6  143.61 546.6  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip46)" />
-    <path d="M 133 560  L 133 550.65  L 137.5 546.4  L 143.8 550.24347826087  L 147.4 548.95  L 151 550.24347826087  L 151 560  L 133 560  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip46)" />
+    <path d="M 130 540  L 153 540  L 153 562  L 130 562  L 130 540  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip78)" />
+    <path d="M 132 542  L 151 542  L 151 560  L 132 560  L 132 542  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip78)" />
+    <path d="M 143.61 546.6  C 142.686 546.6  141.96 545.874  141.96 544.95  C 141.96 544.026  142.686 543.3  143.61 543.3  C 144.534 543.3  145.26 544.026  145.26 544.95  C 145.26 545.874  144.534 546.6  143.61 546.6  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip78)" />
+    <path d="M 133 560  L 133 550.65  L 137.5 546.4  L 143.8 550.24347826087  L 147.4 548.95  L 151 550.24347826087  L 151 560  L 133 560  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip78)" />
   </g>
 </svg>
